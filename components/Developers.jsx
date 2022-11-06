@@ -4,7 +4,7 @@ import terminal from "../assets/terminal.png";
 
 const Developers = () => {
   return (
-    <div className="w-full text-white bg-black">
+    <div className="w-full md:h-[90vh] text-white bg-black">
       <div className="max-w-[1240px] mx-auto px-4 py-16 md:flex">
         <div>
           <h1 className="text-4xl font-Raleway font-semibold mt-[4rem] text-center md:text-left cursor-default">
