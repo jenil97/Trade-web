@@ -20,7 +20,8 @@ const Hero = () => {
           Applications.
         </p>
         <p className="text-center text-white text-xl font-medium font-Raleway cursor-default md:-mt-2 mt-3">
-          Total Volume <span className="text-[#00d8ff]">Secured :</span> $42,104,783,662.47
+          Total Volume <span className="text-[#00d8ff]">Secured :</span>{" "}
+          $42,104,783,662.47
         </p>
         <div className="md:mt-2 mt-8">
           <button className="m-3 bg-gradient-to-r from-[#6a00ff] to-[#00d8ff] py-3 px-7 text-xl rounded-3xl">
