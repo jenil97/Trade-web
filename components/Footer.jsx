@@ -13,7 +13,7 @@ const Footer = () => {
             src={Logo}
             alt="logo"
           />
-          <p className="font-Raleway text-base mt-4">
+          <p className="font-Raleway text-base mt-4 cursor-default">
             A new way to make the Trading easy , reliable and secure .
           </p>
         </div>
@@ -50,7 +50,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <p className="mt-10 font-Raleway text-base text-center">
+      <p className="mt-10 font-Raleway text-base text-center cursor-default">
         Copyright Ⓒ Designed & Developed by Jenil .
       </p>
     </div>
