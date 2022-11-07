@@ -10,10 +10,10 @@ const Navbar = () => {
   };
 
   return (
-    <div className="w-full h-[90px] bg-black">
+    <div className="w-full h-[90px] bg-black fixed">
       <div className="max-w-[1240px] mx-auto px-4 flex md:justify-center justify-between items-center h-full">
         <div>
-          <Image alt="logo" src={Eth} className="w-10 md:w-14" priority/>
+          <Image alt="logo" src={Eth} className="w-10 md:w-14" priority />
         </div>
         <div className="hidden md:flex font-Raleway">
           <ul className="flex text-gray-300 items-center font-normal">

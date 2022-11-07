@@ -11,7 +11,9 @@ const Hero = () => {
         loop
       />
       <div className="w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center font-Raleway">
-        <h1 className="text-5xl font-normal cursor-default">Decentralized</h1>
+        <h1 className="text-5xl font-normal cursor-default md:mt-[150px]">
+          Decentralized
+        </h1>
         <h1 className="py-2 text-5xl font-normal cursor-default">
           <span className="text-[#00d8ff] font-medium">Trading</span> Protocol
         </h1>
